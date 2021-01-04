@@ -1,0 +1,71 @@
+*{
+    margin: 0 auto;
+}
+body{
+    background-image: url('https://goo.gl/A6HpoZ');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Open sans;
+}
+a{
+    color: black;
+    text-decoration: none;   
+}
+ul.menu{
+    margin-top: 30px;
+    padding: 15px 10px;
+    /* recordar 1valor arriba segundo der y como reloj*/
+    text-align: right;
+    font-size:15px ;
+}
+ul.redes{
+    text-align: right;
+    margin-right: 10px;
+}
+
+h1{
+    margin-top: 60px;
+    font-family: Raleway ;
+    font-size: 55px;
+    font-weight: 700px;
+    margin-bottom: 6px;
+    margin-left: 10px;
+    letter-spacing: 2px;
+}
+
+h2{
+    
+    font-family: Raleway ;
+    font-weight: bold;
+    font-size: 15px;
+    
+    margin:20px 0px 10px 10px;
+    color: rgb(11, 12, 12);
+} 
+h4{
+    font-family: Raleway ;
+    font-weight: bold;
+    font-size: 13px;
+  
+    margin:20px 0px 10px 10px;
+    color: rgb(5, 146, 146);
+}
+ul{
+    padding-inline-start: 10px;
+}
+ul li {
+   
+    list-style:none ;
+} 
+a.dato{
+    
+    font:Raleway;
+    font-size: 12px;
+}
+
+ 
+
+
+
+
+

@@ -1,0 +1,79 @@
+*{
+    margin: 0 auto;
+}
+body{
+    
+    background-image: url(../img/emilia-about.jpg);
+    background-size: 75% 650px  ;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    font-family: Open Sans;
+}
+a{
+    color: black;
+    text-decoration: none;   
+}
+ul.menu{
+    margin-top: 30px;
+    padding: 15px 10px;
+    /* recordar 1valor arriba segundo der y como reloj*/
+    background-color: rgba(255, 255, 255, 0.5);
+    text-align: right;
+    font-weight: bold;
+} 
+ul.menu a{
+    color:rgba(71, 71, 71, );
+}
+ul li{
+    list-style:none ;
+}
+ul.menu li{
+    display: inline;
+    padding: 0 7px;
+    border-left: 1px solid black;
+    font-size: 15px;
+}
+
+ul.redes{
+    text-align: right;
+    margin-right: 10px;
+}
+
+
+
+h1{
+    margin-top: 50px;
+    font-family: Raleway ;
+    font-size: 65px;
+    font-weight: 700px;
+    margin-bottom: 6px;
+    margin-left: 25px;
+    letter-spacing: 2px;
+}
+
+h2{
+    
+    font-family: Raleway ;
+    font-weight: normal;
+    font-size: 27px;
+    margin:20px 0px 10px 40px;
+    color: rgb(22, 150, 150);
+}   
+div{
+    background-position-x: right  ;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-top: 50px;
+}
+p{
+    font-family:Raleway ;
+    font-size: 15px ;
+    color: rgb(27, 156, 115);
+    margin-left: 30px;
+    margin-top: 25px;
+}
+.b{
+    font-size:25px;
+    margin-top: 75px;
+}
